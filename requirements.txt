@@ -1,0 +1,12 @@
+pymupdf
+unstructured[pdf]
+langchain
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
+chromadb
+ragas
+deepeval
+python-dotenv
+pydantic
+pytest
